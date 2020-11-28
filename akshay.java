@@ -1,5 +1,5 @@
 class A {
-public static void main(string args[]){
+public Static void main(string args[]){
 System.out.println("akshay");
 }
 }
